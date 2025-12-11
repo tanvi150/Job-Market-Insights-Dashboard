@@ -14,7 +14,7 @@ The **Job Market Insights Dashboard** is a data analysis project aimed at unders
 
 ## Datasets
 
-1. LinkedIn Job Postings (2023–2024)
+1. [LinkedIn Job Postings (2023–2024)](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
 
 - Originally provided by the Data Analytics Club EXCOs
 

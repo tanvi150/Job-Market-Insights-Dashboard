@@ -51,7 +51,7 @@ The **Job Market Insights Dashboard** is a data analysis project aimed at unders
 ### How To Use
 1. Download the project files:
    - `.ipynb` notebooks
-   - CSV Datasets
+   - [CSV Datasets](https://drive.google.com/drive/folders/1FwuM2oU7g2jnKBYMcCXvcLahdmmUxeVU?usp=sharing)
 2. Open the notebooks:
    - You can use Google Colab, Jupyter Notebook or any other environements you're comfortable using.
 3. Upload the datasets:

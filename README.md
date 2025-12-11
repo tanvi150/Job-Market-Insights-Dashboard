@@ -20,7 +20,7 @@ The **Job Market Insights Dashboard** is a data analysis project aimed at unders
 
 - Cleaned and processed to extract relevant features such as job title, company, location, and skills.
 
-2. [(Kaggle Jobs & Skills (2024))(https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)]
+2. [Kaggle Jobs & Skills (2024)](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
 
 - Retrieved to simulate webscraping for comparison purposes.
 
